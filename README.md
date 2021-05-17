@@ -9,3 +9,7 @@ and few other dimensions are added to the team formation problem.
 
 For each of these most considered DBLP, bibsonomy, github, imdb, stackoverflow, and few other datasets.
 There is no either standard dataset or standard procedure to assessand evaluate the team formation algorithms.
+
+team formation algorithms performance is verified against tasks 
+1. comprising randomly selected skills.
+2. consisting of skills selected based on experts availability.
